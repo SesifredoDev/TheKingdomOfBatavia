@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "LiBoxes",
       "LiNotebookPen",
       "LiTimer",
       "LiHistory",
-      "🫂",
-      "LiSword"
+      "🫂"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Factions": "🫂",
   "Historical Events": "LiHistory",
   "Timelines": "LiTimer",
-  "Session Notes": "LiNotebookPen"
+  "Session Notes": "LiNotebookPen",
+  "Recourses": "LiBoxes"
 }

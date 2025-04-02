@@ -6,7 +6,7 @@ tags:
   - Abyss
 Aliasses:
   - Demon of Blades
-Origin / Found: Abyss
+Origin / Found: "[[Abyss]]"
 Relationship w/  Group: Morte's First Patron , working with Mindartis and is enemy of group
 ---
 ## 🏛️ Basic Info
@@ -14,20 +14,18 @@ Relationship w/  Group: Morte's First Patron , working with Mindartis and is ene
 - **Race:**  Demon
 - **Age:**  Unknown
 - **Affiliation:** 
-- **Location:** 
+- **Location:** [[Abyss]]
 
 ## 🎭 Personality & Motivations
 - **Core Traits:**  
+	- Takes young warlocks and corrupts them.... winky face.
+	- Has been corrupted by Mindartis to his bidding, by the abyss, and is working to complete the goals of the Abyss (Entity)
 - **Flaws & Secrets:**  
 - **What Do They Want?**  
 
-## 📖 Backstory & Role in the Story
-> *(Summarize their past and how they influence the plot.)*  
-
 ## 🔗 Relationships
-- **Connected Characters:** [[ ]]
-- **Enemies/Rivals:** [[ ]]
-- **Factions:** [[ ]]
+- **Connected Characters:** [[Mindartis Yaeldrin]] , [[Morte]]
+- Factions: [[Mindartis's Cult]]
 
 ## 📝 Notes
-> *(Miscellaneous details that might be useful later.)*  
+> Corrupts Morte, then his tribe, and forces the Morte to leave, starting the Campaign.

@@ -5,7 +5,7 @@ tags:
   - lore
 Origin:
 ---
-0
+
 ## 🏛️ Overview
 - **Type:** (Myth, legend, prophecy, cultural belief)
 - **Origin:** (Which culture/place does this come from?)  

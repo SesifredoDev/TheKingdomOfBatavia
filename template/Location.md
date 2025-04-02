@@ -27,3 +27,5 @@ tags:
 - **Connected Characters:** [[ ]]
 - **Important Items:** [[ ]]
 - **Story Arcs:** [[ ]]
+
+## 🗺️  Map

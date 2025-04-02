@@ -1,0 +1,30 @@
+Connected to the Fae and the Fae Wild [[Fae & Fae Wild]]
+
+
+Once there was a forest, a green forest full of magic; It was known as the Aefir forest. The magic of this forest stems from the fae wild, in particular from the Great Willow of Aefir (hence the forest’s name).
+
+When the lands first emerged from the sea, they were all barren. The eladrin took it upon themselves to bring aspects of the fae wild to the mortal plane in the form of magical forests. This happened following the death of a great eladrin, in their passing the Grand Tree of the Fae blossomed, each seed having the power to grow a Great Tree (providing a link to the Grand Tree of the Fae) and in response a magical forest would grow around these Great Trees.
+
+One of these Great Trees would grow as a Willow tree, providing shade during the day and light at night. This tree would be called the Great Willow of Aefir. Aefir being the only word remaining of a forgotten language (meaning _twilight_). Over the years, the magical flora would attract many species, many would try to harvest this power, however there would be one race who would dedicate their lives to protecting this forest. This race would be the wood elves. It would be through this protection that they would hear the whispers of the fae wild and the harmony within. As such they would become the Tribe of Aefir, a name given to their elders by the Grand Tree of the Fae.
+
+Before long, the wood elves would be visited by an eladrin, who would begin teaching them the rituals necessary to be transported to the fae wild along with their forest. This eladrin would be named Iris Aefir, Guide of Aefir, First of the Aefirs. Over many years, more eladrin would emerge from the Great Willow of Aefir, each one teaching the next major step of the fae wild ritual. The latest of these eladrin would be Lila Aefir, and she would be the first to not be a Guide of Aefir. Instead, her title would be changed to fit her role, the role of transporting the wood elves to the fae wild. As such, when the stars announced her emergence (as they had done for all the previous eladrin), she would be called Lila Aefir, Twilight Guardian of the tribe of Aefir
+
+The wood elves would begin preparations for the journey to the fae wild within hours of stars announcement, in hopes that they would be ready for Lila’s emergence. Lila’s emergence would be interrupted by the sudden outbreak of a fire on the outskirts of the forest, without anyone realising, this meant that Lila might not be able to channel the fae wild correctly during the ritual. The wood elves, being almost an extension of the forest, would quickly put out the fire and return to the Great Willow of Aefir to begin the ritual.
+
+As the ritual commenced, everything seemed fine, that was until the wood elves started being transported to the fae wild.
+
+Something was wrong, Lila knew it.
+
+However, by this point of the ritual, nothing could be done lest it bring harm to the wood elves or the forest. Just as the last wood elf (a small boy) was about to be transported, the power of the fae wild inverted. Lila was overwhelmed by this sudden surge in power and lost consciousness whilst being thrown far away. At the same time, the Great Willow of Aefir burst into flame, breaking the connection to the fae wild.
+
+This wood elf boy was Sprout, the fourth child out of seven to his loving parents. Sprout was a part of the tenth generation of the elves, only being young he has only heard stories of the Guides of Aefir and the promises of the fae. He had just finished learning how to read the stars when Lila Aefir’s emergence was announced. Sprout would be told to stay out of the way and to just watch the preparations of the ritual being carried out.
+
+On the day of the emergence and the ascension, Sprout would be one of the first to notice the fire that had broken out, despite this, the elders would instruct him and the other young ones to stay at the Great Willow of Aefir whilst the others dealt with the fire. It would be during this event that Sprout would first see Lila Aefir as she finished emerging from the Great Willow of Aefir.
+
+Once the fire was put out, Sprout and the other children would be told to stand in specific spots, with Sprout standing just behind his family, they were set to be the last family to be sent to the fae wild. As the ritual began, Sprout would watch the other wood elves be transported through a gate seemingly opened by the Great Willow of Aefir. As the rest of his family began to be floated through the gate, Sprout would experience a strange sensation, one he would assume was part of the ritual.
+
+The air became heavy with fae magic.
+
+Sprout could feel the magic tingling under his skin, running through his veins. Then, suddenly it stopped. He was still in the forest, the Great Willow of Aefir little more than a smouldering stump. His family was nowhere to be seen. He suddenly realised that he was alone, everyone was gone, even Lila Aefir, the one he was told would help them go to the fae wild. As the sun set, Sprout would curl up next to the stump, scared of the dark, of being alone, and most importantly, of being forgotten and unable to get back to his family.
+
+Lila would awaken having been flung to the outskirts of the forest. Something was wrong, her magic was severely weakened. That’s when it hit her, the magic of the forest was nearly gone, with the remnants being drawn towards the center, where the Great Willow of Aefir was. Lila would follow the magic back. It would be night by the time she would make it back, she would see the Great Willow of Aefir nothing more than a stump. Even more concerning was the small wood elf child curled up next to it. It would be this sight, that would awaken a fragment of Lila’s power, given to her by the Great Willow of Aefir. Her hair would begin to glow as she approached the child. She would carry him to the Tribal Village of Aefir, where she would begin to watch over him, protect him and begin figuring out a way to get him to his family and the fae wild.

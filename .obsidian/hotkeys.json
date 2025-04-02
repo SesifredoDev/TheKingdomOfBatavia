@@ -1,3 +1,21 @@
 {
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "live-variables:insert-local-variable": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "live-variables:query-variables": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ]
 }
