@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 17,
+    "emojiStyle": "twemoji",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "LiNotebookPen",
+      "LiTimer",
+      "LiHistory",
+      "🫂",
+      "LiSword"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "PC's": "LiPersonStanding",
+  "NPC's": "🤖",
+  "NPC's/Gods": "✊",
+  "Lore & Mythology": "LiBook",
+  "Locations": "LiMapPin",
+  "Items": "LiSword",
+  "Factions": "🫂",
+  "Historical Events": "LiHistory",
+  "Timelines": "LiTimer",
+  "Session Notes": "LiNotebookPen"
+}

@@ -1,7 +1,13 @@
 {
-  "files": [],
+  "files": [
+    "Player Character.md",
+    "NPC.md",
+    "Location.md",
+    "Lore & Mythology.md",
+    "Organisation.md"
+  ],
   "templaterFiles": [],
   "newFileTemplates": [],
   "openNewFileTemplateInNewPane": true,
-  "useNewFileTemplateOnFileCreation": false
+  "useNewFileTemplateOnFileCreation": true
 }

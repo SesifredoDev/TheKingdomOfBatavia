@@ -3,16 +3,18 @@ Name: Morte
 tags:
   - character
   - pc
-Aliasses: 
-Origin:
+Aliasses:
+  - Morte de Duende
+  - Morte del Deric
+Origin: Batavian Forests
 ---
 ## 🧑‍🎤 Overview
-- **Full Name:**  
-- **Race:**  
-- **Class:**  
-- **Alignment:**  
-- **Age:**  
-- **Background:**  
+- **Full Name:**  Morte
+- **Race:**  Eldritch Dark Elf
+- **Class:**  Warlock & Sorcerer
+- **Alignment:**  Lawful Neutral  
+- **Age:**  83
+- **Background:**  Sage
 
 ## 🎭 Personality & Motivation
 - **Core Traits:**  
@@ -32,5 +34,3 @@ Origin:
 - **Rivals/Enemies:** [[ ]]
 - **Organizations:** [[ ]]
 
-%% ## 🔗 Key Events
-- [[Timeline]] | [[Major Arc]]   %%
