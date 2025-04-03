@@ -8,6 +8,7 @@ Aliasses:
 Origin / Found: "[[Nestlebrook]]"
 Relationship w/  Group: Very Strong, we adore him like a distant Uncle
 ---
+![[MrE.png]]
 ## 🏛️ Basic Info
 - **Role:** God
 - **Age:**  Unkown

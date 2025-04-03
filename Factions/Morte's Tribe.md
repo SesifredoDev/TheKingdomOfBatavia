@@ -22,4 +22,4 @@ Relationship w/  Group: Been Corrupted By Duende
 
 ## 🔗 Related Topics
 - **Leaders:** Morte's Mother (Unofficially), Ukhoda
-- **Key Locations:** [[Nestlebrook]]
+- **Key Locations:** [[Nestlebrook]], [[Fae & Fae Wild]]

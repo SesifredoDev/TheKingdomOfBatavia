@@ -1,27 +1,23 @@
 ---
-Name: The Atlas Inn
+Name: 
 Type: 
 tags:
   - location
 ---
 ## 📍 Basic Info 
-- **Type:** Building
-- **Religion**: The Curse of the Atlas Anderi
-- **Notable Residents:** [[The Atlas Anderi]]  
+- **Type:** Cave
+- **Region:** Just off [[Nestlebrook]]  
+- **Affiliated Factions:** [[ ]]  [[The Three Eyed Gang]]
 
 ## 🏙️ Description
 > *(Describe the geography, climate, architecture, or important landmarks.)*  
 
 ## 🕰️ History
 - **Major Events:** [[ ]]  
-- **Current Status:** Awarded Two Years and A great Inn
-
-
+- **Current Status:** Empty, Probably used as a storage place for J&R
 
 ## 🔗 Related Entries
-- **Connected Characters:** [[The Atlas Anderi]] , 
 - **Important Items:** [[ ]]
 - **Story Arcs:** [[ ]]
 
 ## 🗺️  Map
-![[atlasInn.png]]![[AtlasInnInterier.jpg]]

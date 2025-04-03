@@ -1,14 +1,12 @@
 ---
-Name: Windmere
-Type: City
+Name: Faught Lane
+Type: Road
 tags:
   - location
 ---
 ## 📍 Basic Info 
-- **Type:** (City, ruin, kingdom, etc.)
-- **Region:** [[ ]]  
-- **Notable Residents:** [[ ]]  
-- **Affiliated Factions:** [[ ]]  
+- **Type:** Road
+- **Region:** [[Windmere]]   
 
 ## 🏙️ Description
 > *(Describe the geography, climate, architecture, or important landmarks.)*  
@@ -19,14 +17,13 @@ tags:
 - **Current Status:** (Prosperous, war-torn, abandoned, etc.)  
 
 ## 🌟 Key Locations
-- **Tavern/Inn:** [[Mystery taverns]]
-- **Temple/Shrine:** [[The Holy Trinity]]  
-- **Market/District:** [[Faught Lane]]
-- **[[Adventurer's Guild]]**
+- 1 **Tavern/Inn:** [[Atlas Inn]]  
+- 2 **Book Store:** The Bent Nail  
+- **Market:** [[J&R co Store]]  
 
 ## 🔗 Related Entries
-- **Connected Characters:** [[ ]]
 - **Important Items:** [[ ]]
 - **Story Arcs:** [[ ]]
 
 ## 🗺️  Map
+![[Atlas_Alley.jpg]]

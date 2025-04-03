@@ -271,6 +271,6 @@ Sure enough, as entering into the Mystery Inn, a human oppose the door sat their
 The music from Darryns right held the power of a great distraction, and the crowed seemed to have been enveloped in its beauty. Not a bad time to make a great score.
 
 ## 🕸️ Relationships
-- **Allies:** [[ ]]
+- **Allies:** [[Ga-al - SpiritLifter]], [[Jewels]]
 - **Rivals/Enemies:** [[Arcane]]
 - **Organizations:**  [[The Atlas Anderi]]

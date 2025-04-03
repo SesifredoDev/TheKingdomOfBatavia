@@ -23,4 +23,5 @@ Relationship w/  Group: BBEG and his gang of the ganglies
 
 ## 🔗 Related Topics
 - **Leaders:** [[Mindartis Yaeldrin]]
+- **Attached Faction**: [[Factions/J&R co]]
 - **Key Locations:** [[Abyss]]

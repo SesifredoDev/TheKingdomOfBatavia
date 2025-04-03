@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 16774912
       }
+    },
+    {
+      "query": "tag: #abyss",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.967708333333333,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 2.00728352864583,
   "lineSizeMultiplier": 2.1671875,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 14.375,
+  "centerStrength": 0.0989583333333333,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.18131525700453435,
+  "linkDistance": 265,
+  "scale": 0.11311622757054837,
   "close": false
 }

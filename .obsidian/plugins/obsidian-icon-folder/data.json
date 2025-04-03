@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "LiMountain",
       "LiBoxes",
       "LiNotebookPen",
       "LiTimer",
-      "LiHistory",
-      "🫂"
+      "LiHistory"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Historical Events": "LiHistory",
   "Timelines": "LiTimer",
   "Session Notes": "LiNotebookPen",
-  "Recourses": "LiBoxes"
+  "Recourses": "LiBoxes",
+  "Story Arcs": "LiMountain"
 }

@@ -6,25 +6,26 @@ tags:
 
 
 ## 📍 Location & Timeline
-- **Where it took place:** [[ ]]  
-- **Current In-Game Date:**  -
+- **Where it took place:** [[Three Eyed Gang Hideout]]  
+- **Current In-Game Date:** Nightal  4041pf 
+
 ## ⚔️ Combat Encounters (If Any)
-- **Enemies Fought:** [[ ]]  
+- **Enemies Fought:** [[The Three Eyed Gang]]  
 - **Notable Moves/Abilities Used:**  
+	- Badgers Big Speech
+	- Vidals Massacre 
 - **Outcome:**  
+	- The bandits are trying to rebuild themselves.
 
 ## 🔮 Items & Rewards
-- **Gold/Wealth Gained:**  
-- **New Magic Items:** [[ ]]  
-- **Other Notable Loot:**  
+- **Other Notable Loot:**  [[Three Eyed Gang Letter]]
 
 ## 🌍 Story & World Impact
-- **Notable NPCs:** [[ ]]  
-- **Important NPCs Met:** [[ ]]  
-- **Factions Influenced:** [[ ]]  
+- **Notable NPCs:** [[Three Eyed Man]],    
+- **Factions Influenced:** [[Factions/J&R co]]  
 - **Major Decisions & Their Consequences:**  
 
-## 📝 Session Notes & DM Thoughts
+## 📝 Session Notes
 > *(Anything the DM should remember for next time: loose threads, foreshadowing, player plans.)*  
 
 ## 🔗 Related Entries

@@ -30,6 +30,12 @@ Location:
 
 
 
+
+## 🌍 Consequences & Legacy
+- **How Did This Change the World?** Gods lost their immortality, many "died" and moved to the next plane of their existence. 
+- **Who Benefited or Suffered?**   
+
+
 ## 🔗 Related Entries
 - **Factions Involved:** [[The Holy Trinity]]
 - **Key Locations:** [[Kingdom of Batavia]]

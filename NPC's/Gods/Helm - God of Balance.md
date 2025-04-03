@@ -22,7 +22,7 @@ Relationship w/  Group:
 
 ## 🔗 Relationships
 - **Connected Characters:** [[Mordin - God of Creation]] , [[Bane -  God of Destruction]]
-- **Enemies/Rivals:** [[Mordin - God of Creation]],  [[Bane -  God of Destruction]], [[Mindartis Yaeldrin]]
+- **Enemies/Rivals:** [[Mordin - God of Creation]],  [[Bane -  God of Destruction]], 
 - **Factions:** [[The Holy Trinity]]
 
 ## 📝 Notes

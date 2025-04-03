@@ -21,5 +21,5 @@ Rarity: Artifact
 
 ## 🔗 Related Entries
 - **Connected Characters:** [[Vidal's Shield]], [[Ga-al - SpiritLifter]], [[Morte]]  
-- **Tied Locations:** [[Windmere]], [[]]  
+- **Tied Locations:** [[Windmere]] 
 - **Other Similar Items:** [[Vidal's Shield]]  

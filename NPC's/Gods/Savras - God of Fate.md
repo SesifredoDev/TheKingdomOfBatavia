@@ -9,6 +9,10 @@ Aliasses:
 Origin / Found: "[[Nestlebrook]]"
 Relationship w/  Group: Badger is the paladin of, and frequently Assists Us. Plus timey-whimey fun sessions
 ---
+![[Savras.png]]
+
+
+
 ## 🏛️ Basic Info
 - **Role:** God
 - **Age:**  Unknown + he controls that

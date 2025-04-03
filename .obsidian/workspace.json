@@ -4,20 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf1aeae7d025cfa",
+        "id": "a80d3ea22bea485b",
         "type": "tabs",
         "children": [
           {
-            "id": "78cb0a680c06a78d",
+            "id": "b0b596d89cd65710",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 265,
+                  "scale": 0.09392927902847012,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7f0756505b325c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story Arcs/Badgers Past.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Badgers Past"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +95,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,49 +217,54 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "15ab8a2e82453d99",
+  "active": "7f0756505b325c5c",
   "lastOpenFiles": [
-    "Factions/The Holy Trinity.md",
-    "Factions/The Atlas Anderi.md",
-    "PC's/Vidal Sunshield.md",
-    "Items/Vidal's Shield.md",
+    "Factions/The Three Eyed Gang.md",
+    "Story Arcs/Badgers Past.md",
+    "Story Arcs/J&R co Story.md",
+    "Session Notes/Session 2 - Three Eyed Gang.md",
+    "Items/Three Eyed Gang Letter.md",
+    "Session Notes/Session 1 -  Badger Assault.md",
+    "NPC's/Three Eyed Man.md",
+    "threeEyedMan.png",
+    "NPC's/Dorlin Lightwizzel.md",
+    "NPC's/Untitled.md",
+    "NPC's/Mr Jackson.md",
+    "Recourses/jackson.jpg",
+    "Mr Jackson.md",
+    "Factions/J&R co.md",
+    "NPC's/Mr Stain Artwold.md",
+    "template/🎲 Session {{number}} - {{date}}.md",
+    "Story Arcs/Worms.md",
     "PC's/Badger.md",
-    "Factions/The Phantom Raiders.md",
-    "NPC's/Ariana Eastguard.md",
-    "Locations/Waterhaven.md",
-    "Items/Badgers Boots.md",
-    "Items/Vidal's Prayerbeeds.md",
-    "NPC's/Gods/Sigmar - God of Blacksmithing.md",
-    "NPC's/Gods/Mr E -  God of Trade.md",
-    "NPC's/Gods/Mordin - God of Creation.md",
-    "NPC's/Gods/Helm - God of Balance.md",
-    "NPC's/Gods/Bane -  God of Destruction.md",
-    "Factions/Mindartis's Cult.md",
-    "Locations/Abyss.md",
-    "PC's/Ga-al - SpiritLifter.md",
+    "Factions/The Atlas Anderi.md",
+    "Story Arcs/Morte's Pact.md",
+    "template/Story Arc.md",
+    "Story Arcs",
+    "NPC's/Bartholomu Melru The 4th.md",
+    "Recourses/Melru.png",
+    "Items/Worm (In a Jar).md",
+    "Items/Vidal's Prayerbeads.md",
+    "PC's/Vidal Sunshield.md",
+    "Items/Alirum.md",
+    "Locations/Wailing mountains.md",
+    "NPC's/Pets/Plink - Mimic.md",
+    "Recourses/MrE.png",
+    "Recourses/Savras.png",
+    "NPC's/Pets",
+    "Recourses/Atlas_Alley.jpg",
+    "Recourses/ABYSS lore (2).pdf",
     "template.zip",
-    "PC's/Jewels.md",
-    "Locations/The Southern Mountain Range.md",
-    "Locations/Nestlebrook.md",
-    "Historical Events/The Fall.md",
-    "PC's/Darryn.md",
-    "NPC's/Arcane.md",
-    "template/NPC.md",
-    "NPC's/Ukhoda.md",
     "Recourses/nestlebrookMap.jpg",
     "Recourses/atlasInn.png",
     "Recourses/AtlasInnInterier.jpg",
     "Recourses/Windmere_City_map.jpg",
-    "Recourses/kingdom_of_Batavia_3.jpg",
     "Recourses",
     "Untitled.canvas",
     "template",
     "Session Notes",
     "Timelines",
     "Items",
-    "Lore & Mythology",
-    "NPC's/Gods",
-    "Historical Events",
-    "Factions"
+    "Lore & Mythology"
   ]
 }

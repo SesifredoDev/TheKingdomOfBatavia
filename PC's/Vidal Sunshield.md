@@ -38,8 +38,7 @@ Origin: "[[Windmere]]"
 	- A War Hammer
 	- Armour
 	- Great Shield of The Batavia Army - 
-	- Prayer Beeds
-	- 
+	- Prayer Beads
 
 ## 📖 Backstory
 >Since Sigmar’s disappearance, the religion that he had grown through myths and rumours of his chaotic-good nature has since been crushed by the lesser religions in the religious purging that occurred centuries ago. The destruction of the religion (the Eternals) began in the forest of Nestlbrook with the ransacking and plundering of a long since forgotten temple of worship. This ransacking was the only time that one of Sigmar’s temples was not completely destroyed, and that a small group of priests were spared (however they were killed before they could preach to anyone else). Following the destruction of the Eternals, Sigmar was left unable to leave the core of Mallus and rebuild his religion and save any remaining followers. However, due to an unseen magical entity, the original copy of writings of the Eternals and Sigmar and his deeds were preserved in a magically concealed spot in the Nestlbrook temple, waiting for the Vidal Sunshield to ‘stumble’ across.
@@ -54,4 +53,5 @@ Following the creation of his holy symbol, Vidal began his journey under the bel
 
 ## 🕸️ Relationships
 - **Allies:** [[Mordin - God of Creation]] (as Edward Windemere), [[The Atlas Anderi]]
+- **Enemies**: [[Ildroth]]
 - **Organizations:** [[The Emperors Hammer]] , [[Sigmar - God of Blacksmithing]], [[The Atlas Anderi]]
