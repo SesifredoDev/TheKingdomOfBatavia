@@ -6,7 +6,7 @@ Type:
 ## 🎭 Overview
 - **Type:** Character Arc
 - **Major Themes:**  Emotional Escape, 
-- **Characters Involved:** [[ ]]  
+- **Characters Involved:** [[Badger]] , [[Ariana Eastguard]], [[The Phantom Raiders]] 
 
 ## 📖 Summary
 > *(Describe the core conflict and what’s at stake.)*  
@@ -18,7 +18,7 @@ Type:
 4. **Resolution:**  
 
 ## 🔗 Related Topics
-- **Related Sessions**: 
+- **Related Events: 
 - **Important Locations:** [[ ]]
 - **Factions Involved:** [[ ]]
 - **Artifacts/Magic:** [[ ]]

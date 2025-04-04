@@ -11,21 +11,14 @@
       "query": "path:template",
       "color": {
         "a": 1,
-        "rgb": 16711803
+        "rgb": 65284
       }
     },
     {
-      "query": " tag: #pc  ",
+      "query": " tag: pc  ",
       "color": {
         "a": 1,
         "rgb": 16711829
-      }
-    },
-    {
-      "query": "file:The Atlas Anderi",
-      "color": {
-        "a": 1,
-        "rgb": 14745855
       }
     },
     {
@@ -33,13 +26,6 @@
       "color": {
         "a": 1,
         "rgb": 5431378
-      }
-    },
-    {
-      "query": "file: The Holy Trinity",
-      "color": {
-        "a": 1,
-        "rgb": 16774912
       }
     },
     {
@@ -52,14 +38,14 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 2.00728352864583,
-  "lineSizeMultiplier": 2.1671875,
+  "textFadeMultiplier": -2.8,
+  "nodeSizeMultiplier": 1.83541666666667,
+  "lineSizeMultiplier": 1.4015625,
   "collapse-forces": false,
-  "centerStrength": 0.0989583333333333,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 265,
-  "scale": 0.11311622757054837,
+  "centerStrength": 0.119791666666667,
+  "repelStrength": 16.875,
+  "linkStrength": 0.994791666666667,
+  "linkDistance": 287,
+  "scale": 0.2273763246144718,
   "close": false
 }

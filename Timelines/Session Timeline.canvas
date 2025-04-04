@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a450f7b5d6cf51f7","x":-160,"y":-180,"width":400,"height":400,"type":"file","file":"Story Events/Fighting The Troll.md"},
+		{"id":"e6780e006173c48f","x":-960,"y":-180,"width":400,"height":400,"type":"file","file":"Story Events/Meeting In Batavia.md"},
+		{"id":"878bb5e5d627c933","x":580,"y":-180,"width":400,"height":400,"type":"file","file":"Story Events/Taking on Worm Retrieval.md"},
+		{"id":"b6058ead9a7cea24","x":-160,"y":-1000,"width":400,"height":400,"type":"file","file":"Session Notes/Session 1 -  Badger Assault.md"}
+	],
+	"edges":[
+		{"id":"8455b2f17c8b7e99","fromNode":"e6780e006173c48f","fromSide":"right","toNode":"a450f7b5d6cf51f7","toSide":"left"},
+		{"id":"24159cd3a42ed6ca","fromNode":"a450f7b5d6cf51f7","fromSide":"right","toNode":"878bb5e5d627c933","toSide":"left"},
+		{"id":"b4ff06512f9caf07","fromNode":"e6780e006173c48f","fromSide":"top","toNode":"b6058ead9a7cea24","toSide":"bottom"},
+		{"id":"0b77bc39e0b8000c","fromNode":"a450f7b5d6cf51f7","fromSide":"top","toNode":"b6058ead9a7cea24","toSide":"bottom"},
+		{"id":"e4a407b6cf10ba2e","fromNode":"878bb5e5d627c933","fromSide":"top","toNode":"b6058ead9a7cea24","toSide":"bottom"}
+	]
+}

@@ -7,7 +7,7 @@ tags:
 ## 📍 Basic Info 
 - **Type:** Building
 - **Religion**: The Curse of the Atlas Anderi
-- **Notable Residents:** [[The Atlas Anderi]]  
+- **Notable Residents:** [[Factions/The Atlas Anderi]]  
 
 ## 🏙️ Description
 > *(Describe the geography, climate, architecture, or important landmarks.)*  
@@ -19,7 +19,7 @@ tags:
 
 
 ## 🔗 Related Entries
-- **Connected Characters:** [[The Atlas Anderi]] , 
+- **Connected Characters:** [[Factions/The Atlas Anderi]] , 
 - **Important Items:** [[ ]]
 - **Story Arcs:** [[ ]]
 

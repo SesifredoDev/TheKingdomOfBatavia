@@ -18,7 +18,7 @@ Type:
 4. **Resolution:**  
 
 ## 🔗 Related Topics
-- **Related Sessions**: 
+- **Related Events**: 
 - **Important Locations:** [[Nestlebrook]]
 - **Factions Involved:** [[ ]]
 - **Artifacts/Magic:** [[ ]]

@@ -105,63 +105,10 @@ tags:
 	- Choose to take on their first quest together from Batholomu Melru the 4th.
 	- Fight together Against the 3 eyed Gang Monsters
 
-## 📝 Session Notes & DM Thoughts
-- **Scene: Tavern of Mystery Inn**
-    
-    - Ga-Al "Spiritlifter" performs atop a makeshift stage (a table), engaging the lively midday crowd.
-        
-    - A Gnome bard attempts to join but is subtly maneuvered offstage, retreating in embarrassment.
-        
-    - A seven-foot man, **Mr. E**, storms in, demanding Ga-Al get off the table.
-        
-    - Ga-Al cheekily responds, “Take it out of my paycheck,” continuing his performance.
-        
-- **Introduction of Key Figures**
-    
-    - A Gnome clad in ill-fitting chainmail, carrying a shield with a red eye emblem.
-        
-    - A human, drunkenly slouched, bearing a gold shield with a hammer emblem.
-        
-    - A hooded half-elf child watches the scene, fixated on the human’s shield, intent on stealing it.
-        
-- **Shield Theft Attempt**
-    
-    - The half-elf (Darryn) sneaks up and grabs the shield.
-        
-    - The Gnome (Badger) attempts to intervene stealthily but is caught.
-        
-    - Darryn openly admits to stealing it because it was "shiny."
-        
-    - **Mr. E** questions them, but Darryn successfully deceives him, pinning the blame on Badger.
-        
-- **Resolution & Chess Game**
-    
-    - Mr. E loses patience and offers them a game and a drink.
-        
-    - Badger reluctantly agrees, claiming he might remember how to play. He does not.
-        
-    - **Morte De Duende**, a dark elf, enters, exhausted and broke.
-        
-    - Mr. E offers him a place to stay, dragging him into the game.
-        
-- **Performance & Distraction**
-    
-    - Ga-Al finishes his set and shifts to an enthusiastic speech about a book.
-        
-    - The young elf starts putting chess pieces in their mouth, much to Mr. E’s exasperation.
-        
-- **Sudden Danger**
-    
-    - A sharp cry is heard outside.
-        
-    - The players at the chess table and Ga-Al rush to the entrance.
-        
-    - A feral, saddle-wearing wolf lunges at Ga-Al, biting into his side (-6 HP).
-        
-    - The Gnome from earlier is being savagely attacked by another wolf, his screams unnoticed in the chaos.
-        
-    - A troll is seen outside, locked in combat with an old man wielding a simple stick.
+## 📝 Events & Notes:
+- [[Meeting In Batavia]]
+- [[Fighting The Troll]]
+- [[Taking on Worm Retrieval]]
+- General Nightime chat, before bed, for RP and connections
 
-## 🔗 Related Entries
-- **Next Steps:** [[ ]]  
-- **Unresolved Plot Points:** [[ ]]  
+

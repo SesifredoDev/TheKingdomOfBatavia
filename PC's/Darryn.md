@@ -273,4 +273,4 @@ The music from Darryns right held the power of a great distraction, and the crow
 ## 🕸️ Relationships
 - **Allies:** [[Ga-al - SpiritLifter]], [[Jewels]]
 - **Rivals/Enemies:** [[Arcane]]
-- **Organizations:**  [[The Atlas Anderi]]
+- **Organizations:**  [[Factions/The Atlas Anderi]], [[The Phantom Raiders]]

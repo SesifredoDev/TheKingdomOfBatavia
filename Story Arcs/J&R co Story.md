@@ -18,7 +18,7 @@ Type:
 3. **Resolution:**  
 
 ## 🔗 Related Topics
-- **Related Sessions**: [[Session 2 - Three Eyed Gang]]
+- **Related Events: 
 - **Important Locations:** [[Three Eyed Gang Hideout]]
 - **Factions Involved:** [[Factions/J&R co]]
 - **Artifacts/Magic:** [[ ]]

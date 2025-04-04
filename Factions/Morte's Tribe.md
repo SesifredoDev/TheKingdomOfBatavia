@@ -10,8 +10,8 @@ Relationship w/  Group: Been Corrupted By Duende
 
 ## 🏛️ Basic Info
 - **Type:** Tribe / Cult
-- **Purpose/Mission:**  Find the Fae and Reuinite with their Ancestors
-- **Notable Members:** [[Morte]]  
+- **Purpose/Mission:**  Find the Fae and Reunite with their Ancestors
+- **Notable Members:** [[Morte]],  [[Ukhoda]], [[Ysildea]]
 - **Allies/Rivals:** [[Duende]]  
 
 ## 📖 History

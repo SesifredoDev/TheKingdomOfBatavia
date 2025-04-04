@@ -12,13 +12,14 @@ Type:
 > After finding the worm for Batholomu, He is captured by J&R, and influenced by the Worm Entity from another realm. 
 
 ## 🕰️ Key Plot Points
-1. **Inciting Incident:**  [[Session 1 -  Badger Assault]]
+1. **Inciting Incident:** 
+	1. 
 2. **Major Developments:**  
 3. **Climax:**  
 4. **Resolution:**  
 
 ## 🔗 Related Topics
-- **Related Sessions**: 
-- **Important Locations:** [[ ]]
-- **Factions Involved:** [[ ]]
-- **Artifacts/Magic:** [[ ]]
+- **Related Events: [[Taking on Worm Retrieval]]
+- **Important Locations:** [[Three Eyed Gang Hideout]]
+- **Factions Involved:** [[J&R co]], [[The Three Eyed Gang]]
+- **Artifacts/Magic:** [[Worm (In a Jar)]]

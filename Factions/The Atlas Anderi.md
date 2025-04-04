@@ -2,6 +2,7 @@
 Title: The Atlas Anderi
 tags:
   - "#faction"
+  - "#pc"
 Aliasses:
   - The Atlas Inn
   - The Group

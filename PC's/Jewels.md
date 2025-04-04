@@ -48,4 +48,4 @@ Origin:
 
 ## 🕸️ Relationships
 - **Rivals/Enemies:** All Goblins
-- **Organizations:**  [[The Atlas Anderi]]
+- **Organizations:**  [[Factions/The Atlas Anderi]]

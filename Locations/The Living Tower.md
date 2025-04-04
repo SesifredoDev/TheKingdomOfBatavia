@@ -8,7 +8,7 @@ tags:
 - **Type:** Tower
 - **Region:** [[Abyss]]  
 - **Notable Residents:** [[Crimson]]  
-- **Affiliated Factions:** [[The Atlas Anderi]]  
+- **Affiliated Factions:** [[Factions/The Atlas Anderi]]  
 
 ## 🏙️ Description
 
