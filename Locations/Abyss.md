@@ -2,8 +2,8 @@
 Name: Abyss
 Type: Realm
 tags:
-  - location
   - Abyss
+  - location
 ---
 ## 📍 Basic Info 
 - **Type:** Realm

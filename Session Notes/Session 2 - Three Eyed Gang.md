@@ -25,9 +25,7 @@ tags:
 - **Factions Influenced:** [[Factions/J&R co]]  
 - **Major Decisions & Their Consequences:**  
 
-## 📝 Session Notes
-> *(Anything the DM should remember for next time: loose threads, foreshadowing, player plans.)*  
+## 📝 Events & Notes
+- 
 
-## 🔗 Related Entries
-- **Next Steps:** [[ ]]  
-- **Unresolved Plot Points:** [[ ]]  
+

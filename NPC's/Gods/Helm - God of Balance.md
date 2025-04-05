@@ -3,6 +3,7 @@ Name: Helm
 tags:
   - character
   - npc
+  - God
 Aliasses: 
 Origin / Found: 
 Relationship w/  Group:

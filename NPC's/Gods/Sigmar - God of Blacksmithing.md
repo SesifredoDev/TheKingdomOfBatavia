@@ -3,6 +3,7 @@ Name: Sigmar,  God of Blacksmith
 tags:
   - character
   - npc
+  - God
 Aliasses: 
 Origin / Found: 
 Relationship w/  Group:

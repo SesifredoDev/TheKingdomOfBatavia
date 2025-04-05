@@ -1,8 +1,7 @@
 ---
 Name: Three Eyed Gang Letter
 Owned By: "[[Badger]]"
-tags:
-  - Abyss
+tags: []
 Aliasses: 
 Rarity:
 ---
@@ -11,7 +10,7 @@ Rarity:
 - **Rarity:** Rare
 - **Material:**  Paper
 - **Size & Weight:**  small
-- **Current Owner/Location:** [[ Badger]],  [[The Three Eyed Gang]]  
+- **Current Owner/Location:** [[The Atlas Anderi]],  [[The Three Eyed Gang]]  
 
 ## 🔮 Description
 >"To the three eyed one, Jerry elmstone.

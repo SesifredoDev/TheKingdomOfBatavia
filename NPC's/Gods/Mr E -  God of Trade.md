@@ -3,6 +3,7 @@ Name:
 tags:
   - character
   - npc
+  - God
 Aliasses:
   - Mr E
 Origin / Found: "[[Nestlebrook]]"

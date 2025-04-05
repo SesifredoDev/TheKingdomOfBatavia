@@ -37,5 +37,5 @@ Rarity:
 
 ## 🔗 Related Entries
 - **Connected Characters:** [[Bartholomu Melru The 4th]]  
-- **Tied Locations:** [[Nestlebrook]], [[Windmere]]  
+- **Tied Locations:**
 - **Other Similar Items:** [[ ]]  

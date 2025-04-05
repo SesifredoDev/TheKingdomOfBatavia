@@ -154,7 +154,7 @@ So he ran once more that evening. Away. Away from the only family, friends, and 
 The journey spent a sleepless night. Moving through the forest to a place any self-respecting individual would not go, for they knew it was to revoke everything they believed in. He went to the civilisation.
 
 ## 🕸️ Relationships
-- **Allies**: [[Vidal Sunshield]], [[Ga-al - SpiritLifter]]
+- **Allies**: [[Vidal Sunshield]], [[Ga-al - SpiritLifter]],   [[Jewels]]
 - **Rivals/Enemies:** [[Duende]]
 - **Organizations:**  [[Factions/The Atlas Anderi]], [[Morte's Tribe]]
 

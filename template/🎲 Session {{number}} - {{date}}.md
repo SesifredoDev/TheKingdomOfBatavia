@@ -24,9 +24,4 @@ tags:
 - **Factions Influenced:** [[ ]]  
 - **Major Decisions & Their Consequences:**  
 
-## 📝 Session Notes & DM Thoughts
-> *(Anything the DM should remember for next time: loose threads, foreshadowing, player plans.)*  
-
-## 🔗 Related Entries
-- **Next Steps:** [[ ]]  
-- **Unresolved Plot Points:** [[ ]]  
+## 📝 Events & Notes

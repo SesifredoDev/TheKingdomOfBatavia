@@ -24,6 +24,6 @@ Relationship w/  Group:
 	- Dismembered by the Atlas Anderi, and now work to the betterment of the Three Eyed Gang
 
 ## 🔗 Related Topics
-- **Leaders:** [[ ]]
+- **Leaders:** [[Three Eyed Man]]
 - **Key Locations:** [[Three Eyed Gang Hideout]]
 - **Artifacts:**/**Items** [[ Three Eyed Gang Letter ]]

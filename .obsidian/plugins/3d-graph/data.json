@@ -1,10 +1,15 @@
 {
   "filters": {
-    "doShowOrphans": false,
+    "doShowOrphans": true,
     "doShowAttachments": false
   },
   "groups": {
-    "groups": []
+    "groups": [
+      {
+        "query": "Atlas Anderi",
+        "color": "#9900ff"
+      }
+    ]
   },
   "display": {
     "nodeSize": 1,

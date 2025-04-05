@@ -2,6 +2,7 @@
 Title: No real name
 tags:
   - "#faction"
+  - Abyss
 Aliasses: 
 Origin: "[[Abyss]]"
 Relationship w/  Group: BBEG and his gang of the ganglies

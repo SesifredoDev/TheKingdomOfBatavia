@@ -8,167 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0b596d89cd65710",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Story Arcs/Worms.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 265,
-                  "scale": 0.16019703729810267,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Worms"
-            }
-          },
-          {
             "id": "3dd23d5dd293ceb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's/Badger.md",
+                "file": "Story Events/Venture to three Eyed Gang  Hideout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Badger"
+              "title": "Venture to three Eyed Gang  Hideout"
             }
-          },
-          {
-            "id": "6b2575e60754ff92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Sutekh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sutekh"
-            }
-          },
-          {
-            "id": "ec03da0efad64fd6",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ff050a955c1363d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The Three Eyed Gang.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Three Eyed Gang"
-            }
-          },
-          {
-            "id": "aa6a9415196ce1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PC's/Ga-al - SpiritLifter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ga-al - SpiritLifter"
-            }
-          },
-          {
-            "id": "4ca47281324c990f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story Arcs/Worms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Worms"
-            },
-            "group": "93b5746f8cb15a94"
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "20e8b8a94d94a667",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a5b1a16fc3fa088",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Story Arcs/Worms.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7580030846613942,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Worms"
-            },
-            "group": "93b5746f8cb15a94"
           }
         ]
       }
@@ -320,46 +171,110 @@
     "hiddenItems": {
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "6a5b1a16fc3fa088",
+  "floating": {
+    "id": "a17ec900da70d7d3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d05b05a61c755a0b",
+        "type": "window",
+        "children": [
+          {
+            "id": "9aee0defc451dcad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9c19b27e7e467489",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Story Events/Venture to three Eyed Gang  Hideout.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 3,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792628,
+                      "close": false
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Venture to three Eyed Gang  Hideout"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1344,
+        "y": 16,
+        "width": 974,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3dd23d5dd293ceb6",
   "lastOpenFiles": [
-    "Story Arcs/Worms.md",
-    "Story Events/Taking on Worm Retrieval.md",
-    "Story Events/Fighting The Troll.md",
+    "Recourses/Pasted image 20250405000558.png",
+    "NPC's/Gods/Sigmar - God of Blacksmithing.md",
+    "NPC's/Gods/Savras - God of Fate.md",
+    "NPC's/Gods/Mr E -  God of Trade.md",
+    "NPC's/Gods/Mordin - God of Creation.md",
+    "NPC's/Gods/Lliira - Goddess of Joy.md",
+    "NPC's/Gods/Helm - God of Balance.md",
+    "NPC's/Gods/Bane -  God of Destruction.md",
+    "NPC's/Dorlin Lightwizzel.md",
+    "NPC's/Duende.md",
+    "Items/Holy Symbol of Lliira.md",
+    "PC's/Igris.md",
+    "Locations/Kingdom of Aefir.md",
+    "Recourses/threeEyedMan.png",
+    "Story Events/Venture to three Eyed Gang  Hideout.md",
     "Factions/The Atlas Anderi.md",
+    "NPC's/Arcane.md",
     "PC's/Ga-al - SpiritLifter.md",
-    "Factions/The Three Eyed Gang.md",
-    "PC's/Darryn.md",
-    "Timelines/Session Timeline.canvas",
-    "Session Notes/Session 1 -  Badger Assault.md",
-    "Items/Ga-al's Book.md",
-    "Story Arcs/Vidal Healing.md",
-    "Story Arcs/Morte's Pact.md",
-    "Story Arcs/J&R co Story.md",
-    "Story Arcs/Badgers Past.md",
-    "Factions/Morte's Tribe.md",
-    "PC's/Morte.md",
-    "Story Events/Meeting In Batavia.md",
-    "NPC's/Sutekh.md",
-    "Lore & Mythology/The Fiddlefen Family.md",
-    "PC's/Badger.md",
-    "Story Arcs/The Atlas Anderi Story.md",
+    "Locations/Abyss.md",
+    "Story Arcs/Worms.md",
     "Factions/J&R co.md",
-    "template/Story Event.md",
-    "template/Story Arc.md",
-    "Story Events",
-    "Historical Events/The Fall.md",
-    "Session Notes/Session 2 - Three Eyed Gang.md",
+    "Factions/Mindartis's Cult.md",
     "Items/Three Eyed Gang Letter.md",
-    "threeEyedMan.png",
+    "PC's/Morte.md",
+    "Items/Worm (In a Jar).md",
+    "PC's/Badger.md",
+    "Story Arcs/Darryn belonging.md",
+    "Timelines/Untitled.canvas",
+    "Timelines/Morte's Pact Timeline.canvas",
+    "Timelines/Session Timeline.canvas",
+    "Story Events",
     "Recourses/jackson.jpg",
     "Story Arcs",
     "Recourses/Melru.png",
@@ -372,7 +287,6 @@
     "Recourses/nestlebrookMap.jpg",
     "Recourses/atlasInn.png",
     "Recourses/AtlasInnInterier.jpg",
-    "Recourses/Windmere_City_map.jpg",
     "Recourses",
     "Untitled.canvas",
     "template",

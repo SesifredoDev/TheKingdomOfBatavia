@@ -2,6 +2,7 @@
 Title: Jackson Rickles and Co
 tags:
   - "#faction"
+  - Abyss
 Aliasses:
   - J&R
   - JR

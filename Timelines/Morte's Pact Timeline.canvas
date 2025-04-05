@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"129a8704b334c5e2","x":-660,"y":-100,"width":400,"height":400,"type":"file","file":"PC's/Morte.md"},
+		{"id":"97ee066d95601415","x":-585,"y":-180,"width":250,"height":60,"type":"text","text":"Morte's Backstory"},
+		{"id":"17cd1e363b955ae8","x":26,"y":-99,"width":400,"height":400,"type":"file","file":"Story Events/Fighting The Troll.md"},
+		{"id":"8e3bbdc11d8084d1","x":101,"y":-180,"width":250,"height":60,"type":"text","text":"Power/Instinct Taking over\n(Feels wrong)"}
+	],
+	"edges":[
+		{"id":"b66a2e4e083ff051","fromNode":"129a8704b334c5e2","fromSide":"right","toNode":"17cd1e363b955ae8","toSide":"left"}
+	]
+}

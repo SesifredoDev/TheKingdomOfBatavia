@@ -8,44 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:template",
+      "query": "tag:  #pc  ",
       "color": {
         "a": 1,
-        "rgb": 65284
+        "rgb": 9175295
       }
     },
     {
-      "query": " tag: pc  ",
+      "query": "tag: #location",
       "color": {
         "a": 1,
-        "rgb": 16711829
-      }
-    },
-    {
-      "query": "file: Mindartis's Cult",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 16762194
       }
     },
     {
       "query": "tag: #abyss",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 327424
+      }
+    },
+    {
+      "query": "tag: #God",
+      "color": {
+        "a": 1,
+        "rgb": 16715743
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.8,
-  "nodeSizeMultiplier": 1.83541666666667,
-  "lineSizeMultiplier": 1.4015625,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.119791666666667,
-  "repelStrength": 16.875,
-  "linkStrength": 0.994791666666667,
-  "linkDistance": 287,
-  "scale": 0.2273763246144718,
+  "centerStrength": 0.291666666666667,
+  "repelStrength": 12.5,
+  "linkStrength": 0.723958333333333,
+  "linkDistance": 30,
+  "scale": 0.23244148989292937,
   "close": false
 }

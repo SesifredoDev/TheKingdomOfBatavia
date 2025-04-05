@@ -7,9 +7,12 @@ Type:
 - **Type:** Character Arc
 - **Major Themes:**  Redemption, Belonging, Breaking Connections
 - **Characters Involved:** [[Morte]], [[Duende]], [[Deric]], [[Morte's Tribe]]  
+- Timeline : [[Morte's Pact Timeline.canvas|Morte's Pact Timeline]]
 
 ## 📖 Summary
-> *(Describe the core conflict and what’s at stake.)*  
+> This is Morte's Pact dealings, and the way they influence his behaviour and magic. Namely Duende's  ruthless, slick, nature,
+>  and then theres Derics manipulations and influencing magic
+> 
 
 ## 🕰️ Key Plot Points
 1. **Inciting Incident:**  Morte's Backstory, being swayed from the Fae and selling his soul to Duende
@@ -18,7 +21,6 @@ Type:
 4. **Resolution:**  
 
 ## 🔗 Related Topics
-- **Related Events**: 
 - **Important Locations:** [[Nestlebrook]]
 - **Factions Involved:** [[ ]]
 - **Artifacts/Magic:** [[ ]]

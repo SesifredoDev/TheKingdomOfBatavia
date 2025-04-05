@@ -10,9 +10,8 @@ Relationship w/  Group: Evil, he hurt Darryn, cant be having that. BEst Friends 
 ## 🏛️ Basic Info
 
 - **Role:** Enigmatic Sorcerer / Antagonist
-- **Race:** High Elf (Rumored to be something more)
+- **Race:** High Elf
 - **Age:** Appears mid-30s, true age unknown
-- **Location:** [[A Floating Citadel Hidden Beyond the Veil]]
 ---
 
 ## 🎭 Personality & Motivations
@@ -53,9 +52,7 @@ Now, Arcane’s influence is growing again, and their pursuit of the artifact is
 - **Mysterious Patrons:** There are whispers that Arcane serves—or seeks to overthrow—something far more powerful than themself.
 ### **Enemies/Rivals:**
 - **The Helrich Lineage:** If rumors are true, Darryn’s family once stood in Arcane’s way.
-- **Old Members of The Atlas Anderi:** Not everyone forgave Arcane’s departure. Some would kill them on sight.
-### **Factions:**
-- **[[Unknown Cult or Forbidden Order]]:** A hidden sect that shares Arcane’s pursuit of lost power.
+
     
 
 ---

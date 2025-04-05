@@ -13,8 +13,10 @@ Type:
 
 ## 🕰️ Key Plot Points
 1. **Inciting Incident:** 
-	1. 
+	1. [[Taking on Worm Retrieval]]
 2. **Major Developments:**  
+	1. [[Venture to three Eyed Gang  Hideout]]
+	2. 
 3. **Climax:**  
 4. **Resolution:**  
 
