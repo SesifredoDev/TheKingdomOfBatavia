@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a80d3ea22bea485b",
+        "id": "91105b31465b9c98",
         "type": "tabs",
         "children": [
           {
-            "id": "3dd23d5dd293ceb6",
+            "id": "b384dc95ff1dddd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story Events/Venture to three Eyed Gang  Hideout.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Venture to three Eyed Gang  Hideout"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,7 +173,8 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "3d-graph:3D Graph": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
   "floating": {
@@ -198,7 +195,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Story Events/Venture to three Eyed Gang  Hideout.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -226,7 +222,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Venture to three Eyed Gang  Hideout"
+                  "title": "Graph view"
                 }
               }
             ]
@@ -242,8 +238,16 @@
       }
     ]
   },
-  "active": "3dd23d5dd293ceb6",
+  "active": "15ab8a2e82453d99",
   "lastOpenFiles": [
+    "config.json",
+    "config.json.txt",
+    "New Text Document.txt",
+    "Untitled.md",
+    "Factions/Adventurer's Guild.md",
+    "Locations/J&R co Store.md",
+    "PC's/Darryn.md",
+    "Story Events/Venture to three Eyed Gang  Hideout.md",
     "Recourses/Pasted image 20250405000558.png",
     "NPC's/Gods/Sigmar - God of Blacksmithing.md",
     "NPC's/Gods/Savras - God of Fate.md",
@@ -258,7 +262,6 @@
     "PC's/Igris.md",
     "Locations/Kingdom of Aefir.md",
     "Recourses/threeEyedMan.png",
-    "Story Events/Venture to three Eyed Gang  Hideout.md",
     "Factions/The Atlas Anderi.md",
     "NPC's/Arcane.md",
     "PC's/Ga-al - SpiritLifter.md",
@@ -267,10 +270,6 @@
     "Factions/J&R co.md",
     "Factions/Mindartis's Cult.md",
     "Items/Three Eyed Gang Letter.md",
-    "PC's/Morte.md",
-    "Items/Worm (In a Jar).md",
-    "PC's/Badger.md",
-    "Story Arcs/Darryn belonging.md",
     "Timelines/Untitled.canvas",
     "Timelines/Morte's Pact Timeline.canvas",
     "Timelines/Session Timeline.canvas",
@@ -290,8 +289,6 @@
     "Recourses",
     "Untitled.canvas",
     "template",
-    "Session Notes",
-    "Timelines",
-    "Items"
+    "Session Notes"
   ]
 }
