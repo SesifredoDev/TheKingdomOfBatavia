@@ -156,5 +156,5 @@ The journey spent a sleepless night. Moving through the forest to a place any se
 ## 🕸️ Relationships
 - **Allies**: [[Vidal Sunshield]], [[Ga-al - SpiritLifter]],   [[Jewels]]
 - **Rivals/Enemies:** [[Duende]]
-- **Organizations:**  [[Factions/The Atlas Anderi]], [[Morte's Tribe]]
+- **Organizations:**  [[The-Atlas-Anderi]], [[Morte's Tribe]]
 

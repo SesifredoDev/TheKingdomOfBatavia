@@ -14,7 +14,9 @@ welcome to the kingdom of Batavia, the golden continent, a country for all races
 ## 🌟 Key Locations
 - [[Nestlebrook]]
 - [[Windmere]]
-- 
+- [[House Ironskar]]
+- [[The Southern Mountain Range]]
+- [[]]
 
 
 ## 🗺️ Map
