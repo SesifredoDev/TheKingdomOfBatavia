@@ -21,5 +21,5 @@ Type:
 ## 🔗 Related Topics
 - **Related Sessions**: 
 - **Important Locations:** [[ ]]
-- **Factions Involved:** [[The Emperors Hammer]]
+- **Factions Involved:** [[The Emperor's Fist]]
 - **Artifacts/Magic:** [[ ]]
