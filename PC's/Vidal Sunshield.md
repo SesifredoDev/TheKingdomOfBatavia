@@ -4,7 +4,7 @@ tags:
   - character
   - pc
   - Dead
-Aliasses:
+Aliases:
   - Barbra
   - Steve
 Origin: "[[Windmere]]"
