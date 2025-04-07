@@ -6,7 +6,7 @@ tags:
 Aliasses:
   - Jewels
   - Destroyer of Worlds
-Origin:
+Origin: "[[Quit Evil]]"
 ---
 ## 🧑‍🎤 Overview
 - **Full Name:** Destroyer of Worlds
@@ -44,8 +44,9 @@ Origin:
 	- errr whats that, im a dragon,.,,, also hot, and broke (bank of darryn is great, infini-loan)
 
 ## 📖 Backstory
-> To be determined
+> The group found her in Milil's Temple while being sacrificed, but a story is slowly being revealed even to Jewels Mind.
 
 ## 🕸️ Relationships
 - **Rivals/Enemies:** All Goblins
-- **Organizations:**  [[Factions/The Atlas Anderi]]
+- **Organizations:**  [[The-Atlas-Anderi]]
+- **Notable Locations:** [[Quit Evil]],  [[Milil's Temple]]

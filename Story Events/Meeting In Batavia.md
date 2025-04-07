@@ -9,7 +9,7 @@ tags:
 
 ## 📆 Event Details
 - **Related Characters:** [[Morte]], [[Vidal Sunshield]], [[Darryn]], [[Ga-al - SpiritLifter]], [[Badger]]  
-- **Factions Involved:** [[Factions/The Atlas Anderi]]  
+- **Factions Involved:** [[The-Atlas-Anderi]]  
 
 ## 🎭 Summary
  **Scene: Tavern of Mystery Inn**

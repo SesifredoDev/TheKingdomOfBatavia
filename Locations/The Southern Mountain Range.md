@@ -17,6 +17,7 @@ tags:
 
 ## 🌟 Key Locations
 - Ga-al's Tribe home.
+- [[Locra's Champion Chambers]]
 ## 🔗 Related Entries
 - **Connected Characters:** [[Ga-al - SpiritLifter]]
 - **Story Arcs:** [[ ]]

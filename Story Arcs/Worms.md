@@ -1,6 +1,8 @@
 ---
 Title: 
-Type:
+Type: 
+tags:
+  - Abyss
 ---
 
 ## 🎭 Overview
@@ -15,8 +17,8 @@ Type:
 1. **Inciting Incident:** 
 	1. [[Taking on Worm Retrieval]]
 2. **Major Developments:**  
-	1. [[Venture to three Eyed Gang  Hideout]]
-	2. 
+	1. [[(TEG) Venture to three Eyed Gang  Hideout]]
+	2. [[(TEG) Party stealth's, Vidal does not]]
 3. **Climax:**  
 4. **Resolution:**  
 

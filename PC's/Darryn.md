@@ -38,6 +38,8 @@ Origin:
 - **Primary Fighting Style:**  
 - **Notable Abilities:**  
 - **Weapons & Gear:**  
+	- [[Horn of Power]]
+	- [[Locra's Key]]
 
 ## 📖 Backstory
 > A young half-elven being stood there, the dark hood over head concealing their dark grey eyes, and long brown hair. They pierced their searching glare into the tavern, the strong scent of booze filling their nostrils. Darryn was searching for the next economic ‘donation’ to their pouch.
@@ -273,4 +275,5 @@ The music from Darryns right held the power of a great distraction, and the crow
 ## 🕸️ Relationships
 - **Allies:** [[Ga-al - SpiritLifter]], [[Jewels]]
 - **Rivals/Enemies:** [[Arcane]]
-- **Organizations:**  [[Factions/The Atlas Anderi]], [[The Phantom Raiders]]
+- Gods: [[Locra - God of Locks]] [[Milil - God of Song, Passion and Creativity]]
+- **Organizations:**  [[The-Atlas-Anderi]], [[The Phantom Raiders]]

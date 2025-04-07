@@ -26,5 +26,5 @@ Rarity:
 
 ## 🔗 Related Entries
 - **Connected Characters:** [[Ga-al - SpiritLifter]]  
-- **Tied Locations:** [[Wailing mountains]]  
+- **Tied Locations:** [[The Southern Mountain Range]]  
 - **Other Similar Items:** [[ ]]  

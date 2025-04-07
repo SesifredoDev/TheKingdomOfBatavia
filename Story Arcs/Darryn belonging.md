@@ -6,7 +6,7 @@ Type:
 ## 🎭 Overview
 - **Type:** Character Arc
 - **Major Themes:**   Belonging
-- **Characters Involved:** [[Darryn]], [[Plink - Mimic]]  
+- **Characters Involved:** [[Darryn]], [[Plink - Mimic]]  ,  [[Ga-al - SpiritLifter]]
 
 ## 📖 Summary
 > These are the steps taken for darryn to feel like they belong with the group, or in general
@@ -16,11 +16,12 @@ Type:
 	1. Darryns backstory
 2. **Major Developments:** 
 	1. Finding plink
+	2. 
 3. **Climax:**  
 4. **Resolution:**  
 
 ## 🔗 Related Topics
-- **Related Events**:  [[Venture to three Eyed Gang  Hideout]] 
-- **Important Locations:** [[Atlas Inn]]
+- **Related Events**:  [[(TEG) Venture to three Eyed Gang  Hideout]] 
+- **Important Locations:** [[Atlas Inn]], [[Locra's Champion Chambers]]
 - **Factions Involved:** [[ ]]
 - **Artifacts/Magic:** [[ ]]

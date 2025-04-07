@@ -138,5 +138,5 @@ Secrets are power.
 ## 🕸️ Relationships
 - **Allies:** [[Sutekh]], [[The Living Tower]]
 - **Rivals/Enemies:** [[Abyss]]
-- **Organizations:** [[Factions/The Atlas Anderi]]
+- **Organizations:** [[The-Atlas-Anderi]]
 

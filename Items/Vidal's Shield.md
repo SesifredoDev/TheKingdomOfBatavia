@@ -30,6 +30,6 @@ Rarity:
 - **Major Events Involving This Item:** [[ ]]  
 
 ## 🔗 Related Entries
-- **Connected Characters:** [[Vidal's Shield]], [[Darryn]]
+- **Connected Characters:** [[Vidal Sunshield]], [[Darryn]]
 - **Tied Locations:** [[ ]]  
 - **Other Similar Items:** [[ ]]  

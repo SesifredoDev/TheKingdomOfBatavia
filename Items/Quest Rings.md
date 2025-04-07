@@ -15,5 +15,6 @@ Rarity:
 
 
 ## 📖 History & Lore
+-  **System Used**:  [[Guild Ring System]]
 - **Created By:** [[Adventurer's Guild]]  
 

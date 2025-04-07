@@ -26,6 +26,8 @@ tags:
 - **Major Decisions & Their Consequences:**  
 
 ## 📝 Events & Notes
+- [[(TEG) Venture to three Eyed Gang  Hideout]] - We find Plink and get a no so knowing Guide to the hideout
+- [[(TEG) Party stealth's, Vidal does not]] - Convert Bandits to helping Nestlebrook
 - 
 
 
