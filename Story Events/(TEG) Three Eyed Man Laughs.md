@@ -25,16 +25,26 @@ tags:
 - Ga-al sends a spell that forces the Three Eyed man to laugh, its unnerving
 - Badger gets the kill on the Three Eyed man
 - Vidal kills the chimera
-- Vidal beheads the 
+- Vidal beheads the Lion head on the Chimera, picks it up, and continues to use it as a backpack (could be used as a fun narrative device later)
+- Morte Deals with magical wounds from Sigmar, and hears Duende in his head tell him that this "healing", was a gift and to be greatful.
 
 ## ⚔️ Conflict & Consequences
 - **Major Challenges Faced:**  
+	- Vidal and his Draconophobia
+	- Three Eyed man
 - **Key Decisions Made:**  
+	- Morte tries to heal someone
+	- Ga-al using the power of creativity to wound someone
 - **Immediate Consequences:**  
+	- Morte is repelled by sigmar, which could effect how Morte Views his magic
 - **Long-Term Impact on the Story:**  
+	- Nothing, just character arcs
 
 ## 🔗 Related Entries
-- **Connected Sessions:** [[ ]]  
+- **Connected Sessions:** [[Session 2 - Three Eyed Gang]]  
 - **Items/Artifacts Introduced:** [[ ]]  
-- **Related Story Arc:s**
+- **Related Story Arcs**:
+	- [[Morte's Pact]]
+	- [[Worms]]
+	- 
 - **Relevant Lore/Factions:** [[ ]]  

@@ -6,7 +6,9 @@
 		{"id":"b6058ead9a7cea24","type":"file","file":"Session Notes/Session 1 -  Badger Assault.md","x":-160,"y":-1000,"width":400,"height":400},
 		{"id":"b8152b6d431f0b5c","type":"file","file":"Story Events/(TEG) Venture to three Eyed Gang  Hideout.md","x":1360,"y":-180,"width":400,"height":400},
 		{"id":"2104593390d2479c","type":"file","file":"Story Events/(TEG) Party stealth's, Vidal does not.md","x":2160,"y":-180,"width":400,"height":400},
-		{"id":"b9aa86b03070c8f4","type":"file","file":"Session Notes/Session 2 - Three Eyed Gang.md","x":2160,"y":-1000,"width":400,"height":400}
+		{"id":"db6307ada7448756","type":"file","file":"Story Events/(TEG) Badger Speech.md","x":2880,"y":-180,"width":400,"height":400},
+		{"id":"28594daaaa370bfc","type":"file","file":"Story Events/(TEG) Three Eyed Man Laughs.md","x":3567,"y":-181,"width":400,"height":400},
+		{"id":"b9aa86b03070c8f4","type":"file","file":"Session Notes/Session 2 - Three Eyed Gang.md","x":2520,"y":-960,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8455b2f17c8b7e99","fromNode":"e6780e006173c48f","fromSide":"right","toNode":"a450f7b5d6cf51f7","toSide":"left"},
@@ -17,6 +19,10 @@
 		{"id":"f0d8ae5ab25f7a88","fromNode":"878bb5e5d627c933","fromSide":"right","toNode":"b8152b6d431f0b5c","toSide":"left"},
 		{"id":"fc4a8e6f225d528d","fromNode":"b8152b6d431f0b5c","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"},
 		{"id":"c9325ea1b9b7b2af","fromNode":"b8152b6d431f0b5c","fromSide":"right","toNode":"2104593390d2479c","toSide":"left"},
-		{"id":"cc8e19235270fbc0","fromNode":"2104593390d2479c","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"}
+		{"id":"cc8e19235270fbc0","fromNode":"2104593390d2479c","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"},
+		{"id":"c96c16e2187c1601","fromNode":"2104593390d2479c","fromSide":"right","toNode":"db6307ada7448756","toSide":"left"},
+		{"id":"28f53428f865d06f","fromNode":"db6307ada7448756","fromSide":"right","toNode":"28594daaaa370bfc","toSide":"left"},
+		{"id":"6da34d36b869bc20","fromNode":"db6307ada7448756","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"},
+		{"id":"c278f6b554aa6f6c","fromNode":"28594daaaa370bfc","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"}
 	]
 }

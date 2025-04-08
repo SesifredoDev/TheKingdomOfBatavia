@@ -24,6 +24,7 @@ Origin: Batavian Forests
 - **Flaws & Weaknesses:**  
 	- Indecisive
 	- Anxious
+	- Imposter Syndrome
 - **Personal Goals:**  
 	- Defeat Duende
 	- Try to retrieve his path to the Fae (aka get soul back)
@@ -156,5 +157,5 @@ The journey spent a sleepless night. Moving through the forest to a place any se
 ## 🕸️ Relationships
 - **Allies**: [[Vidal Sunshield]], [[Ga-al - SpiritLifter]],   [[Jewels]]
 - **Rivals/Enemies:** [[Duende]]
-- **Organizations:**  [[The-Atlas-Anderi]], [[Morte's Tribe]]
+- **Organizations:**  [[The Atlas Anderi]], [[Morte's Tribe]]
 

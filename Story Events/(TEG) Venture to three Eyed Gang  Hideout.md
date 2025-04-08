@@ -44,5 +44,5 @@ tags:
 
 ## 🔗 Related Entries
 - **Connected Sessions:** [[Session 2 - Three Eyed Gang]]   
-- **Related Story Arcs** [[Worms]], [[Darryn belonging]]
+- **Related Story Arcs** [[Worms]], [[Darryn belonging]], [[Vidal Healing]]
 - **Relevant Lore/Factions:** [[The Three Eyed Gang]]  

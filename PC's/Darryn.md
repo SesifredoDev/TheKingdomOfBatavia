@@ -276,4 +276,4 @@ The music from Darryns right held the power of a great distraction, and the crow
 - **Allies:** [[Ga-al - SpiritLifter]], [[Jewels]]
 - **Rivals/Enemies:** [[Arcane]]
 - Gods: [[Locra - God of Locks]] [[Milil - God of Song, Passion and Creativity]]
-- **Organizations:**  [[The-Atlas-Anderi]], [[The Phantom Raiders]]
+- **Organizations:**  [[The Atlas Anderi]], [[The Phantom Raiders]]

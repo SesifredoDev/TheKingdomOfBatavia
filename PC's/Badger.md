@@ -87,5 +87,5 @@ Setting forth on the path of a wanderer, Badger ventured to a place where his pa
 ## 🕸️ Relationships
 - **Allies:** [[ ]]
 - **Rivals/Enemies:** [[Bromadin "Pigeon Eater" Tonguck]]
-- **Organizations:** [[Savras - God of Fate]],  [[The-Atlas-Anderi]]
+- **Organizations:** [[Savras - God of Fate]],  [[The Atlas Anderi]]
 

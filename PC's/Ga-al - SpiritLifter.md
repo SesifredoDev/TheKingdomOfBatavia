@@ -44,5 +44,5 @@ Origin: "[[The Southern Mountain Range]]"
 
 ## 🕸️ Relationships
 - **Allies:** [[Vidal Sunshield]], [[Darryn]], [[Badger]], [[Morte]], [[Jewels]], [[Mr E -  God of Trade]]
-- **Organizations:**  [[The-Atlas-Anderi]]
+- **Organizations:**  [[The Atlas Anderi]]
 

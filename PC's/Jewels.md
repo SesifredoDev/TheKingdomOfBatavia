@@ -48,5 +48,5 @@ Origin: "[[Quit Evil]]"
 
 ## 🕸️ Relationships
 - **Rivals/Enemies:** All Goblins
-- **Organizations:**  [[The-Atlas-Anderi]]
+- **Organizations:**  [[The Atlas Anderi]]
 - **Notable Locations:** [[Quit Evil]],  [[Milil's Temple]]

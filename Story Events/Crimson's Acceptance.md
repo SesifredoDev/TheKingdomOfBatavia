@@ -10,7 +10,7 @@ tags:
 ## 📆 Event Details
 - **Related Characters:** [[Crimson]]  
 - **Relative Locations**: [[The Living Tower]], [[Atlas Inn]], [[Nine Hells]]
-- **Factions Involved:** [[The-Atlas-Anderi]]  
+- **Factions Involved:** [[The Atlas Anderi]]  
 
 ## 🎭 Summary
 > Upon returning to the Atlas Inn, Crimson would begin to prepare himself to move his tower. Once he had finished explaining to the tower as to why it needed to move to the Nine Hells, Crimson would finally have some time to sit and think about what had transpired within the past week.
