@@ -1,8 +1,8 @@
 ---
-Title: 
-Location: 
-In Game Date: 
-Session: 
+Title: A Carriage ride
+Location: "[[Nestlebrook]]"
+In Game Date: Nightfal 4041 PF
+Session: "[[Session 3 - To Windmere]]"
 tags:
   - "#lore"
 ---
