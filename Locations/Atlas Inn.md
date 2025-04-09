@@ -19,7 +19,7 @@ tags:
 
 
 ## 🔗 Related Entries
-- **Connected Characters:** [[The Atlas Anderi]] , 
+- **Connected Characters:** [[The Atlas Anderi]] , [[Silgrim Felir]] the old owner
 - **Important Items:** [[ ]]
 - **Story Arcs:** [[ ]]
 

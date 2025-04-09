@@ -43,6 +43,6 @@ tags:
 	- Nothing drastic, but  allows the players  to find the three eyed gang hideout.
 
 ## 🔗 Related Entries
-- **Connected Sessions:** [[Session 2 - Three Eyed Gang]]   
+- **Connected Sessions:** [[Session 2, 3 - Three Eyed Gang & Vidal Scary]]   
 - **Related Story Arcs** [[Worms]], [[Darryn belonging]], [[Vidal Healing]]
 - **Relevant Lore/Factions:** [[The Three Eyed Gang]]  

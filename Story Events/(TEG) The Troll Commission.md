@@ -2,7 +2,7 @@
 Title: The Troll Commission
 Location: "[[Three Eyed Gang Hideout]]"
 In Game Date: Nightfal 4041 PF
-Session: "[[Session 2 - Three Eyed Gang]]"
+Session: "[[Session 2, 3 - Three Eyed Gang & Vidal Scary]]"
 tags:
   - "#lore"
 ---
@@ -30,7 +30,7 @@ tags:
 	- Learns of JR
 
 ## 🔗 Related Entries
-- **Connected Sessions:** [[Session 2 - Three Eyed Gang]]  
+- **Connected Sessions:** [[Session 2, 3 - Three Eyed Gang & Vidal Scary]]  
 - **Items/Artifacts Introduced:** [[Three Eyed Gang Letter]]  
 	- **Related Story Arcs**: [[J&R co Story]]
 - **Relevant Lore/Factions:** [[J&R co]]  

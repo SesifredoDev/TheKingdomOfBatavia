@@ -24,5 +24,5 @@ Relationship w/  Group: Is Group
 - **Current Status:**  
 
 ## 🔗 Related Topics
-- **Key Locations:** [[Nestlebrook]], [[Windmere]]
+- **Key Locations:** [[Nestlebrook]], [[Windmere]], [[Atlas Inn]]
 - **Artifacts:** [[ ]]

@@ -17,7 +17,7 @@ Relationship w/  Group:
 
 ## 📖 History
 - **Founding Story:**  
-	- [[Session 2 - Three Eyed Gang]]
+	- [[Session 2, 3 - Three Eyed Gang & Vidal Scary]]
 - **Major Conflicts/Involvements:** 
 	- 
 - **Current Status:** 

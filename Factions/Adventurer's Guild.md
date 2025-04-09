@@ -2,7 +2,9 @@
 Title: Adventurers Guild
 tags:
   - "#faction"
-Aliasses: 
+  - location
+Aliasses:
+  - Adventurers Guild Hall
 Origin: "[[Windmere]]"
 Relationship w/  Group: The group is a member of this Guild
 ---

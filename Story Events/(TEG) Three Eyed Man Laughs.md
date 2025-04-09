@@ -41,7 +41,7 @@ tags:
 	- Nothing, just character arcs
 
 ## 🔗 Related Entries
-- **Connected Sessions:** [[Session 2 - Three Eyed Gang]]  
+- **Connected Sessions:** [[Session 2, 3 - Three Eyed Gang & Vidal Scary]]  
 - **Items/Artifacts Introduced:** [[ ]]  
 - **Related Story Arcs**:
 	- [[Morte's Pact]]

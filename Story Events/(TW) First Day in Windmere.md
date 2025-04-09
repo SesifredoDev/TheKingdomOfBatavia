@@ -2,7 +2,7 @@
 Title: First Day in Windmere
 Location: "[[Windmere]]"
 In Game Date: Nightfal 4041 PF
-Session: "[[Session 3 - To Windmere]]"
+Session: "[[Session 4 - To Windmere]]"
 tags:
   - "#lore"
 ---
@@ -30,7 +30,7 @@ tags:
 
 
 ## 🔗 Related Entries
-- **Connected Sessions:** [[Session 3 - To Windmere]]  
+- **Connected Sessions:** [[Session 4 - To Windmere]]  
 - **Items/Artifacts Introduced:** [[ ]]  
 - **Related Story Arcs**: [[The Atlas Anderi Story]], [[Darryn belonging]]
 - **Relevant Lore/Factions:** [[The Atlas Anderi]] 

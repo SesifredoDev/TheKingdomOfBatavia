@@ -4,7 +4,8 @@ tags:
   - character
   - npc
   - God
-Aliasses: 
+Aliasses:
+  - Edward Windmere
 Origin / Found: 
 Relationship w/  Group:
 ---

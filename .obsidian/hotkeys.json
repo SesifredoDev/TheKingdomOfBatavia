@@ -1,0 +1,12 @@
+{
+  "templater-obsidian:create-template/Location.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}

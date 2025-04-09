@@ -2,7 +2,7 @@
 Title: Day at Nestlebrook
 Location: "[[Nestlebrook]]"
 In Game Date: Nightfal 4041 PF
-Session: "[[Session 3 - To Windmere]]"
+Session: "[[Session 4 - To Windmere]]"
 tags:
   - "#lore"
 ---

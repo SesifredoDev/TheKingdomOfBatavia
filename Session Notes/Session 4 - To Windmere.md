@@ -3,7 +3,7 @@ Title: Session 2 - To Windmere
 tags:
   - session
 ---
-
+	
 
 ## 📍 Location & Timeline
 - **Where it took place:** [[Nestlebrook]] , [[Windmere]] 
@@ -23,7 +23,7 @@ tags:
 - [[(TW) Travel back to Nestlebrook]] - The group takes the ex bandits from the cave to Nestlebrook and negotiate reintegration
 - [[(TW) Day at Nestlebrook]] - Help support integration and general happenings while waiting to leave for Windmere
 - [[(TW) A carriage ride]] - The Carriage ride takes the group to windmere and lets the group get to know one-another.
-- 
+-
 ---
 
 

@@ -1,14 +1,14 @@
 ---
-Name: Windmere
-Type: City
+Name: 
+Type: 
 tags:
   - location
 ---
 ## 📍 Basic Info 
-- **Type:**  City
-- **Region:** [[Kingdom of Batavia]]  
-- **Notable Residents:** [[ ]]  
-- **Affiliated Factions:** [[House of Windmere ]]  
+- **Type:** Landmark
+- **Region:** [[Royal Hill]]  
+- **Notable Residents:** [[Mordin - God of Creation]] as Edward Windmere  
+- **Affiliated Factions:** [[House of Windmere]]  
 
 ## 🏙️ Description
 > *(Describe the geography, climate, architecture, or important landmarks.)*  
@@ -19,11 +19,9 @@ tags:
 - **Current Status:** (Prosperous, war-torn, abandoned, etc.)  
 
 ## 🌟 Key Locations
-- **Tavern/Inn:** [[Mystery taverns]]
-- **Temple/Shrine:** [[The Holy Trinity]]  
-- **Market/District:** [[Faught Lane]]
-- **[[Adventurer's Guild]]**
-- [[Royal Hill]]
+- **Tavern/Inn:** [[ ]]  
+- **Temple/Shrine:** [[ ]]  
+- **Market/District:** [[ ]]  
 
 ## 🔗 Related Entries
 - **Connected Characters:** [[ ]]

@@ -2,13 +2,13 @@
 Title: A Carriage ride
 Location: "[[Nestlebrook]]"
 In Game Date: Nightfal 4041 PF
-Session: "[[Session 3 - To Windmere]]"
+Session: "[[Session 4 - To Windmere]]"
 tags:
   - "#lore"
 ---
 
 ## 📆 Event Details
-- **Related Characters:** [[ ]]  
+- **Related Characters:** [[Unnamed Old Man]]  
 - **Factions Involved:** [[ ]]  
 
 ## 🎭 Summary
@@ -27,8 +27,9 @@ tags:
 - Morte & Vidal bring up their respective guiding hands, (Sigmar and Fae).
 - Morte hears a laugh in his ear.
 
+- The Old man from the carriage, reveals himself to be of the military and mentions that in his time he was in a battle with the House Elendire
 ## 🔗 Related Entries
 - **Connected Sessions:** [[ ]]  
-- **Items/Artifacts Introduced:** [[ ]]  
+- **Items/Artifacts Introduced:** [[Old Man's Journal]]  
 - **Related Story Arcs**: [[The Atlas Anderi]], [[Darryn belonging]], [[Vidal Healing]]
-- **Relevant Lore/Factions:** [[ ]]  
+- **Relevant Lore/Factions:** [[House Elendire]]  

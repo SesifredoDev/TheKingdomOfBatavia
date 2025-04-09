@@ -2,7 +2,7 @@
 Title: Badgers Speech
 Location: "[[Three Eyed Gang Hideout]]"
 In Game Date: Nightfal 4041 PF
-Session: "[[Session 2 - Three Eyed Gang]]"
+Session: "[[Session 2, 3 - Three Eyed Gang & Vidal Scary]]"
 tags:
   - "#lore"
 ---
@@ -26,7 +26,7 @@ tags:
 - **Long-Term Impact on the Story:**  
 
 ## 🔗 Related Entries
-- **Connected Sessions:** [[Session 2 - Three Eyed Gang]]  
+- **Connected Sessions:** [[Session 2, 3 - Three Eyed Gang & Vidal Scary]]  
 - **Items/Artifacts Introduced:** [[ ]]  
 - **Related Story Arcs**
 - **Relevant Lore/Factions:** [[ ]]  

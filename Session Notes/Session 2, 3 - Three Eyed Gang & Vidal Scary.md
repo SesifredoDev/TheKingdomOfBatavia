@@ -22,7 +22,7 @@ tags:
 - **Other Notable Loot:**  [[Three Eyed Gang Letter]]
 
 ## 🌍 Story & World Impact
-- **Notable NPCs:** [[Three Eyed Man]],    
+- **Notable NPCs:** [[Three Eyed Man]], 
 - **Factions Influenced:** [[Factions/J&R co]]  
 - **Major Decisions & Their Consequences:**  
 
