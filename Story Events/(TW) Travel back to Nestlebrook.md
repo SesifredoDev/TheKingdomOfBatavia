@@ -2,7 +2,7 @@
 Title: Travel back to Nestlebrook
 Location: "[[Nestlebrook]]"
 In Game Date: Nightfal 4041 PF
-Session: "[[(TW) Travel back to Nestlebrook]]"
+Session: "[[Session 3 - To Windmere]]"
 tags:
   - "#lore"
 ---
@@ -26,5 +26,5 @@ tags:
 ## 🔗 Related Entries
 - **Connected Sessions:** [[Session 3 - To Windmere]]  
 - **Items/Artifacts Introduced:** [[ ]]  
-- **Related Story Arcs**
+- **Related Story Arcs**: [[Darryn belonging]]
 - **Relevant Lore/Factions:** 

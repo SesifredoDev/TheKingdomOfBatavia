@@ -31,5 +31,3 @@ tags:
 
 
 ---
-- They arrive in Windmere, and Darryn takes what was discussed with Vidal on the cart to steal from the old man they were traveling with.
-- Morte catches wind of the

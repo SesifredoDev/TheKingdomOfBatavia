@@ -55,4 +55,4 @@ Following the creation of his holy symbol, Vidal began his journey under the bel
 ## 🕸️ Relationships
 - **Allies:** [[Mordin - God of Creation]] (as Edward Windemere), [[The Atlas Anderi]]
 - **Enemies**: [[Ildroth]]
-- **Organizations:** [[The Emperors Fist]] , [[Sigmar - God of Blacksmithing]], [[The Atlas Anderi]]
+- **Organizations:** [[The Emperor's Fist]] , [[Sigmar - God of Blacksmithing]], [[The Atlas Anderi]]

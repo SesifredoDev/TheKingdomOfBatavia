@@ -1,3 +1,13 @@
 [
-  "obsidian-git"
+  "templater-obsidian",
+  "buttons",
+  "obsidian-git",
+  "obsidian-hotkeys-for-templates",
+  "obsidian-icon-folder",
+  "live-variables",
+  "3d-graph",
+  "cmenu-plugin",
+  "obsidian-tagfolder",
+  "flowershow",
+  "canvas-send-to-back"
 ]

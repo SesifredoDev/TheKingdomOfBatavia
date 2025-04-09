@@ -1,14 +1,19 @@
 {
 	"nodes":[
-		{"id":"a450f7b5d6cf51f7","type":"file","file":"Story Events/Fighting The Troll.md","x":-160,"y":-180,"width":400,"height":400},
+		{"id":"b8152b6d431f0b5c","type":"file","file":"Story Events/(TEG) Venture to three Eyed Gang  Hideout.md","x":680,"y":-180,"width":400,"height":400},
+		{"id":"878bb5e5d627c933","type":"file","file":"Story Events/Taking on Worm Retrieval.md","x":120,"y":-180,"width":400,"height":400},
+		{"id":"a450f7b5d6cf51f7","type":"file","file":"Story Events/Fighting The Troll.md","x":-440,"y":-180,"width":400,"height":400},
 		{"id":"e6780e006173c48f","type":"file","file":"Story Events/Meeting In Batavia.md","x":-960,"y":-180,"width":400,"height":400},
-		{"id":"878bb5e5d627c933","type":"file","file":"Story Events/Taking on Worm Retrieval.md","x":580,"y":-180,"width":400,"height":400},
-		{"id":"b6058ead9a7cea24","type":"file","file":"Session Notes/Session 1 -  Badger Assault.md","x":-160,"y":-1000,"width":400,"height":400},
-		{"id":"b8152b6d431f0b5c","type":"file","file":"Story Events/(TEG) Venture to three Eyed Gang  Hideout.md","x":1360,"y":-180,"width":400,"height":400},
-		{"id":"2104593390d2479c","type":"file","file":"Story Events/(TEG) Party stealth's, Vidal does not.md","x":2160,"y":-180,"width":400,"height":400},
-		{"id":"db6307ada7448756","type":"file","file":"Story Events/(TEG) Badger Speech.md","x":2880,"y":-180,"width":400,"height":400},
-		{"id":"28594daaaa370bfc","type":"file","file":"Story Events/(TEG) Three Eyed Man Laughs.md","x":3567,"y":-181,"width":400,"height":400},
-		{"id":"b9aa86b03070c8f4","type":"file","file":"Session Notes/Session 2 - Three Eyed Gang.md","x":2520,"y":-960,"width":400,"height":400}
+		{"id":"2104593390d2479c","type":"file","file":"Story Events/(TEG) Party stealth's, Vidal does not.md","x":1200,"y":-180,"width":400,"height":400},
+		{"id":"db6307ada7448756","type":"file","file":"Story Events/(TEG) Badger Speech.md","x":1720,"y":-180,"width":400,"height":400},
+		{"id":"28594daaaa370bfc","type":"file","file":"Story Events/(TEG) Three Eyed Man Laughs.md","x":2240,"y":-180,"width":400,"height":400},
+		{"id":"b9aa86b03070c8f4","type":"file","file":"Session Notes/Session 2 - Three Eyed Gang.md","x":1480,"y":-960,"width":400,"height":400,"color":"5"},
+		{"id":"eeaf8169db4470b7","type":"file","file":"Story Events/(TW) Travel back to Nestlebrook.md","x":2800,"y":-180,"width":400,"height":400},
+		{"id":"6b94822ed7946e23","type":"file","file":"Story Events/(TW) Day at Nestlebrook.md","x":3320,"y":-181,"width":400,"height":400},
+		{"id":"98327ed96906b255","type":"file","file":"Story Events/(TW) A carriage ride.md","x":3840,"y":-180,"width":400,"height":400},
+		{"id":"fadf8f229d5e174c","type":"file","file":"Story Events/(TW) First Day in Windmere.md","x":4400,"y":-180,"width":400,"height":400},
+		{"id":"3c15e10715c4939c","type":"file","file":"Session Notes/Session 3 - To Windmere.md","x":3640,"y":-960,"width":400,"height":400,"color":"5"},
+		{"id":"b6058ead9a7cea24","type":"file","file":"Session Notes/Session 1 -  Badger Assault.md","x":-440,"y":-960,"width":400,"height":400,"color":"5"}
 	],
 	"edges":[
 		{"id":"8455b2f17c8b7e99","fromNode":"e6780e006173c48f","fromSide":"right","toNode":"a450f7b5d6cf51f7","toSide":"left"},
@@ -23,6 +28,15 @@
 		{"id":"c96c16e2187c1601","fromNode":"2104593390d2479c","fromSide":"right","toNode":"db6307ada7448756","toSide":"left"},
 		{"id":"28f53428f865d06f","fromNode":"db6307ada7448756","fromSide":"right","toNode":"28594daaaa370bfc","toSide":"left"},
 		{"id":"6da34d36b869bc20","fromNode":"db6307ada7448756","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"},
-		{"id":"c278f6b554aa6f6c","fromNode":"28594daaaa370bfc","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"}
+		{"id":"c278f6b554aa6f6c","fromNode":"28594daaaa370bfc","fromSide":"top","toNode":"b9aa86b03070c8f4","toSide":"bottom"},
+		{"id":"4a499f5c3fa2d62b","fromNode":"eeaf8169db4470b7","fromSide":"right","toNode":"6b94822ed7946e23","toSide":"left"},
+		{"id":"ab7e28295aa50028","fromNode":"6b94822ed7946e23","fromSide":"right","toNode":"98327ed96906b255","toSide":"left"},
+		{"id":"b48f973371f8e5cd","fromNode":"28594daaaa370bfc","fromSide":"right","toNode":"eeaf8169db4470b7","toSide":"left"},
+		{"id":"f309d58d858fc07e","fromNode":"98327ed96906b255","fromSide":"right","toNode":"fadf8f229d5e174c","toSide":"left"},
+		{"id":"7a4db3c887481747","fromNode":"a450f7b5d6cf51f7","fromSide":"right","toNode":"878bb5e5d627c933","toSide":"left"},
+		{"id":"9ef3505d59f323e6","fromNode":"eeaf8169db4470b7","fromSide":"top","toNode":"3c15e10715c4939c","toSide":"bottom"},
+		{"id":"616b58676fb9c74a","fromNode":"6b94822ed7946e23","fromSide":"top","toNode":"3c15e10715c4939c","toSide":"bottom"},
+		{"id":"0436644987d086b6","fromNode":"98327ed96906b255","fromSide":"top","toNode":"3c15e10715c4939c","toSide":"bottom"},
+		{"id":"738d5ce7b88ab321","fromNode":"fadf8f229d5e174c","fromSide":"top","toNode":"3c15e10715c4939c","toSide":"bottom"}
 	]
 }
