@@ -33,6 +33,3 @@ Origin:
 - **Allies:** [[ ]]
 - **Rivals/Enemies:** [[ ]]
 - **Organizations:** [[ ]]
-
-%% ## 🔗 Key Events
-- [[Timeline]] | [[Major Arc]]   %%

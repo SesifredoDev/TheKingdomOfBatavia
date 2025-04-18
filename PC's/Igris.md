@@ -33,14 +33,7 @@ Origin: Unknown
 	- Holy Symbol of Lliira
 
 ## 📖 Backstory
-The knight of a long dead kingdom, he is often seen marching in his bronze armour with his kingdom's standard in hand. As a result, many started calling him names such as:  
-- The Bronze Knight  
-- The Forgotten  
-- The Bloody  
-- The Blade of the Past  
-  
-
-Despite these many names, there is one that follows him everywhere. From warriors to civilians, he is known as Igris the Eternal.
+From warriors to civilians, he is known as Igris the Eternal.
 
 His past is one of inactivity and an unforgiving curse. He began life as The Paladin of Lliira (Lyra) the Goddess of Joy, over 4000 years ago. As such, he was granted a power that keeps him in prime physical condition. This was one of the many powers of his God, however most would be sealed away following the Fall. It was at this point that his God would cast away his power when binding the Abyss and choose to pass on to the next plane of life, removing the ability to grant eternal life from the world of Batavia. Igris would view this as a path he forced his God to take by failing to be as magically adept as the other Paladins. This self-hatred would cause the absence of Godly power to collapse into a curse, one that would plague him eternally.
 
@@ -63,6 +56,18 @@ Similarly to the Nestlbrook incident, Igris would be spotted again, this time by
 Igris would not be spotted for two years. This sighting would be just as Plato’s army would start preparing for the siege of Windmere. Unlike the previous sightings, Igris would not be staring at one location, his gaze would be constantly shifting between the attacking army and the defenders of Windmere. Igris himself would be unsure as to the outcome of this siege, as he knows of Plato’s tactical mind but is also aware that the elves are likely controlling Windmere and their tricks and scheming.
 
 The elven tribes situated at the campsites around Omiliri would be the next to witness Igris. All of the tribes would explain how he would be staring at the sky above Omiliri, almost in anticipation of the events that would ensue. Igris would be aware of the plans to corrupt the fae wild, however he would not suspect a ritual used by one of the tribes until after it began. By this point he would be too busy fighting his way through the mushroom men of the infection to be able to intervene. Despite being unable to intervene, Igris would notice the adventuring group he had seen in Nestlbrook (with a few new faces) leave the mineshaft where the ritual occurred. He would follow them from the shadows, watching as they encountered a humanoid that looked identical to one of their members. Soon after they would utilise Mr E’s connections to his other inns to travel to one in the nearby mountain range. Igris would begin a long trek through the swamp, never resting until he arrived at the inn. He would follow their footprints, left behind in the snow and track them to a valley, just in time to watch two of them collapse, one to an arrow and the other to something unknown.
+
+For an unknown reason, Igris decided to watch. There was something about this group, something that compelled Igris to stay nearby and watch.
+
+Igris’ holy symbol was glowing slightly. Lliira was smiling upon this group.
+
+Whilst the fight progressed, Igris would notice the 4-spoke shield on the unconscious half-elf. This shield was similar to that of the Windmere guard; however, it had a hammer symbol on it. As Igris wracked his brain to figure out why it was familiar, the fight would end, and the injured group would begin to move on. Igris would spend a few hours attempting to recall the location where he had seen the shield. That’s when he remembered. He had spotted the shield on a human’s back as they ran towards the Emperor’s Palace after it had exploded.
+
+Igris’ thoughts became clear, that shield had stood out to him due to the godly power that radiated from it, a god that Igris might have encountered once during his lifetime. This man had spent the night at the Emperor’s Palace, doing what he could to assist the soldiers present, and had then returned to a building called the Atlas Inn afterwards. Suddenly, Igris realised that this group he had been watching, he had seen before; first at a town called Nestlbrook, then briefly at Windmere, and then finally near the mines at Omilliri and this valley.
+
+Maybe Savras had written a purpose in the weave of time and fate, one that required Igris to encounter this group. This thought process would continue and would result in Igris remembering small details that he had disregarded as insignificant, details such as the shield carried by the gnome with the symbol of Savras, the scaly wings of the female that collapsed earlier, and the Abyssal warlock magic harnessed by the dark elf. These details, whilst seemingly insignificant compared to the signs of the growing strength of the Abyss, were still important. Details that made this group standout from others. Details that, Igris hoped, were signs that this group wielded power and potential that far surpassed that of many other adventurers that Igris had seen recently.
+
+Igris headed towards the nearest Mystery Inn. He would use the Door of Mr E to travel to Windmere and await this group at the Atlas Inn.
 
 ## 🕸️ Relationships
 - **Allies:** [[Lliira - Goddess of Joy]]

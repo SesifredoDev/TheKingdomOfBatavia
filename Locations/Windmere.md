@@ -24,6 +24,7 @@ tags:
 - **Market/District:** [[Faught Lane]]
 - **[[Adventurer's Guild]]**
 - [[Royal Hill]]
+- Slums: [[The Slums of Windmere]]
 
 ## 🔗 Related Entries
 - **Connected Characters:** [[ ]]
@@ -31,3 +32,4 @@ tags:
 - **Story Arcs:** [[ ]]
 
 ## 🗺️  Map
+![[Windmere_City_map.jpg]]

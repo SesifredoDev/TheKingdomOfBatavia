@@ -20,8 +20,7 @@ Relationship w/  Group: Is Group
 - **Allies/Rivals:** [[ ]]  
 
 ## 📖 History
-- **Founding Story:**  The Group met In nestlebrook, then in windmere was force to officially create a name for themselves while astablishing themselves with the adventurers Guild
-- **Current Status:**  
+- **Founding Story:**  The Group met In Nestlebrook, then in Windmere was force to officially create a name for themselves while establishing themselves with the adventurers Guild
 
 ## 🔗 Related Topics
 - **Key Locations:** [[Nestlebrook]], [[Windmere]], [[Atlas Inn]]
